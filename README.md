@@ -37,8 +37,7 @@ Vue2.0 渲染页面,Vuerouter作为路由管理,Vuex作为状态管理,vue-lazy�
 
 其他项目链接:
 
-+ 数据接口链接:<a href="#">后台接口</a>
-+ 后台管理项目:<a href="#" title="友情链接">后台管理项目</a>
++ 后台管理项目:<a href="https://github.com/baotu/bilihoutai" title="友情链接">后台管理项目</a>
 
 使用方法:
 
