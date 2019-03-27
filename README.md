@@ -42,7 +42,7 @@ Vue2.0 渲染页面,Vuerouter作为路由管理,Vuex作为状态管理,vue-lazy�
 
 使用方法:
 
- + 下载 https://gitee.com/zzz412/bilibili.git
+ + 下载 https://github.com/baotu/biliqiantai
 
    ```javascript
    npm i
